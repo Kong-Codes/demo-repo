@@ -10,3 +10,4 @@ watch tutorials on Youtube.
 ## Local  dev
 
 open indx.html in your web browser
+download the app
